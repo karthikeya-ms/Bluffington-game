@@ -1,4 +1,4 @@
-# 🎭 Bluffington – The Ultimate Deception Game!
+# 🎭 Bluffington – Find the imposter! (development phase)
 
 Bluffington is a **hilarious, fast-paced multiplayer party game** where deception, quick thinking, and creativity are your best weapons. Outsmart your friends, blend in, and avoid getting caught as the imposter!
 
